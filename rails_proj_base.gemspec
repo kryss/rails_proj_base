@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.description = "A generator for new projects."
   s.email = "zhan.shengjie@gmail.com"
   s.extra_rdoc_files = ["CHANGELOG", "README.rdoc", "lib/rails_proj_base.rb"]
-  s.files = ["CHANGELOG", "Manifest", "README.rdoc", "Rakefile", "lib/rails_proj_base.rb", "rails_proj_base.gemspec"]
+  s.files = ["CHANGELOG", "README.rdoc", "Rakefile", "lib/rails_proj_base.rb", "rails_proj_base.gemspec", "Manifest"]
   s.homepage = "http://k7.yt/"
   s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Rails_proj_base", "--main", "README.rdoc"]
   s.require_paths = ["lib"]

@@ -1,0 +1,6 @@
+CHANGELOG
+Manifest
+README.rdoc
+Rakefile
+lib/rails_proj_base.rb
+rails_proj_base.gemspec
